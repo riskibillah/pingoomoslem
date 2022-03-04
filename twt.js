@@ -1,0 +1,1 @@
+var birdSprite="https://rawcdn.githack.com/riskibillah/pingoomoslem/453a404de96379e56cbf80cff82934cc974d559a/twt.png";var targetElems=new Array("img","hr","table","td","div","input","textarea","button","select","ul","ol","li","h1","h2","h3","h4","p","code","object","a","b","strong","span");var twitterAccount="http://twitter.com/PingooMoslem";tripleflapInit()
