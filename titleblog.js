@@ -1,0 +1,1 @@
+function scrollMSG(){document.title=msg.substring(pos,msg.length)+msg.substring(0,pos),pos++,pos>msg.length&&(pos=0),window.setTimeout("scrollMSG()",200)}msg="PingooMoslem™ | Giving, Sharing, Invitation to the Truth | ",msg=""+msg,pos=0,scrollMSG();
