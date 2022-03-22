@@ -1,0 +1,6 @@
+ul.w2b_recent_comments{margin:6px;padding:0;}
+.w2b_recent_comments li{!important;margin:5px 5px 6px !important;padding:0 0 0 40px!important;display:block;clear:both;}
+.w2b_recent_comments li .avatarImage{padding:3px;background:#fefefe;-webkit-box-shadow:0 1px 1px #ccc;-moz-box-shadow:0 1px 1px #ccc;box-shadow:0 1px 1px #ccc;float:right;margin:0 6px 0 0;position:relative;}
+.avatarRound{-webkit-border-radius:100px;-moz-border-radius:100px;border-radius:100px;}
+.w2b_recent_comments li img{padding:0px;position:relative;display:block;}
+.w2b_recent_comments li span{margin-top:4px;color: #666;display: block;font-size: 12px;font-style: italic;line-height: 1.4;}
